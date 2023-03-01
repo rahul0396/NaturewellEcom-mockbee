@@ -1,0 +1,67 @@
+@import url("/css/navbar.css");
+.my-cart{
+    position: absolute;
+width: 100%;
+height: 1000px;
+left: 0px;
+top: 80px;
+
+background: #F7F7F7;
+}
+.product-card{
+    
+    position: absolute;
+    width: 500px;
+    height: 350px;
+    left: 200px;
+    top: 110px;
+    
+    background-color: #FFFFFF;
+    display: flex;}
+    .imga{
+        width: 50%;
+        height: 100%;
+    }
+.card-data{
+    display: flex;
+    flex-direction:column;
+}
+.card-data h1{
+    margin: 1rem;
+}
+.card-data p{
+    margin: 0.2rem;
+}
+.card-data s{
+    margin: 0.2rem;
+}
+.card-btn{
+    width: 80%;
+}
+.card-data-price{
+    display: flex;
+    
+}
+
+
+
+
+/* price details */
+.price-details{
+    position: absolute;
+width: 520px;
+height: 400px;
+left: 800px;
+top: 193px;
+
+background-color: #FFFFFF;
+border-radius: 10px;
+}
+.price-details h1,p{
+    margin: 1rem;
+}
+.btn-placeorder{
+    width: 80%;
+    margin: 0 1rem  ;
+    font-size: 1rem;
+}

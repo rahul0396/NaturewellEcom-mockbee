@@ -1,0 +1,56 @@
+
+
+
+
+.navbar{
+    
+    background-color: var(--COLOR-BRAND);
+    
+
+}
+
+.search-bar{
+    
+    width: 40%;
+    height: 2.5rem;
+    position: relative;
+   
+}
+
+.search-input{
+    height: 2.5rem;
+    border-radius: 5px;
+    width: 100%;
+    outline: none;
+    
+    
+}
+.account-basket-btn{
+      right: 3rem;
+    justify-content: center;
+    align-items: center;
+
+}
+.hy-search-btn{
+  
+    right: 3px;
+    padding: 0.8rem ;
+    background-color: transparent;
+    
+
+}
+
+.nav-btn{
+    
+    
+    border-radius: 5px;
+    
+    background-color: var(--COLOR-WHITE);
+    
+    
+}
+.fa-heart{
+    color: white;
+    font-size: 1.8rem;
+    margin:  0 1rem;
+}
